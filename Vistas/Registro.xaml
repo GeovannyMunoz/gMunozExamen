@@ -82,6 +82,7 @@
                     Keyboard="Numeric"
                     Grid.Row="3"
                     Grid.Column="1"
+                   TextChanged="txtMonto_TextChanged"
              />
             
             <Label Text="Pago Mensual:"
